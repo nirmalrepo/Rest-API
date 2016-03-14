@@ -2,7 +2,7 @@
 
 /* File : Rest.inc.php
  * Author :Nirmal Fernando
- * Description :Simple RestfulAPI for adding new users to Website DB via Seebo device request
+ * Description :Simple RestfulAPI for adding new users to Website DB via  device request
  */
 include_once './class/validation.inc';
 include_once './class/dbc.php';
